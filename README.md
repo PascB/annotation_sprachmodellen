@@ -11,6 +11,8 @@ Nach Möglichkeit, sollte es gemacht werden mit Hilfe der Reddit API, aber da es
   Die sollen verschidene Themen haben und auch ein klares Gefühl, welche annotieren sein kann. Diese Beiträge sollen dann in ein PDF gesammelt werden, mit Authors, Datum, komplete Beitrag und die 5 beliebste Kommentare.
 Es sollte mehrere PDFs gemacht werden, im Ziel ChatGPT erst zu trianieren und dann die Aussagen/Annotierung zu validieren mit nie gesehene Beiträge und Kommentare
 2. Die Annotation Regeln/Spezifierung sollen geschrieben werden und es sollte beschrieben sein, was das Ziel jede Annotation ist.
-  Das fürht, zur Hilfe Verbesserung der Aussgage für ChatGPT und auch die Optimierung der Annotation.
+  Das fürht, zur Hilfe Verbesserung der Aussgage für ChatGPT und auch die Optimierung und Regulierung der Annotation und Beobachtung 
+  der Annotationen.
   Dieses Teil wird noch geupdated und bearbeiteit während des Laufzeit des Projektes.
+3. Ein erste Versucht an Annotation sollte gemacht werden. Diese erste Ergebnisse können als Bais benutzt werden, um die weitere Spezifikation und Aussage an ChatGPT zu verbessern.
 
