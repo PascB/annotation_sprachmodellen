@@ -11,3 +11,6 @@ Verfahrensweise
   3. Ein erster Versuch an Annotation sollte gemacht werden. Diese ersten Ergebnisse können als Basis benutzt werden, um die weitere Spezifikation und Aussage an ChatGPT zu verbessern.
   4. Die “Prompts”  und Annotation sollen verbessert werden, bis ich mit den Ergebnissen zufrieden bin und damit ein neues PDF zu dem Programm geben kann und die neuen Ergebnisse prüfen.
   5. Die Gleiche Aussage und PDFs sollte dann an ein 2. sprachmodelle gegeben werden, mit ähnliches “Prompts” und die Ergebnisse können dann geprüft werden und auch analysiert zum schauen, wie gut das andere Sprachmodelle mit fertigen “prompt” für ChatGPT umgehen kann und inwiefern die geändert werden müssen um ähnliche Ergebnisse zu bekommen.
+
+
+Reddit Sub: https://www.reddit.com/r/newworldgame/
