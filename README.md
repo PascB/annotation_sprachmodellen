@@ -23,6 +23,6 @@ If possible, it should be done using the Reddit API, but since it is no longer f
 
 Procedure
   1. Various posts should be selected from the subreddit. They should have different topics and also a clear feeling, which can be annotated. These posts should then be collected in a PDF, with authors, date, complete post and the 5 most popular comments. Several PDFs should be made, with the aim of first training ChatGPT and then validating the statements/annotations with never seen posts and comments
-The annotation rules/specification should be written and it should be described what the goal of each annotation is. This will lead to help improving the statement for ChatGPT and also the optimisation and regulation of the annotation and monitoring of the annotations. This part will be updated and edited during the lifetime of the project.
-  2. A first attempt at annotation should be made. These first results can be used as a basis to improve the further specification and statement of ChatGPT.
-  3.  The prompts and annotation should be improved until I am satisfied with the results and can give a new PDF to the programme and check the new results.
+  2. The annotation rules/specification should be written and it should be described what the goal of each annotation is. This will lead to help improving the statement for ChatGPT and also the optimisation and regulation of the annotation and monitoring of the annotations. This part will be updated and edited during the lifetime of the project.
+  3. A first attempt at annotation should be made. These first results can be used as a basis to improve the further specification and statement of ChatGPT.
+  4.  The prompts and annotation should be improved until I am satisfied with the results and can give a new PDF to the programme and check the new results.
